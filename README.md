@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal Sheikh</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Mern Stack**
 
