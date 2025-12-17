@@ -1,62 +1,18 @@
-# 👨🏻‍💻 Muhammad Bilal Sheikh
-[![Twitter Follow]()
-[![GitHub followers](https://img.shields.io/github/followers/MBIlalsheikh05?label=Follow&style=social)](https://github.com/MBIlalsheikh05)
-[![Gmail Badge](https://img.shields.io/badge/-mbilalsheikh05@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mbilalsheikh05@gmail.com)](mailto:mbilalsheikh05@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)](https://www.linkedin.com/in/ali-hasan-khan-28863b232/)
-[![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/dashboard)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAli_Hasan_Khan&logo=leetcode&logoColor=yellow)](https://leetcode.com/Ali_Hasan_Khan/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask%20Questions-green.svg)]([https://stackoverflow.com/questions/tagged/your-tag-here](https://stackoverflow.com/users/19986303/ali-hasan-khan))
-[![ProfileViews](https://komarev.com/ghpvc/?username=Ali-Hasan-Khan28&color=ff69b4&style=flat)](https://komarev.com/ghpvc/?username=Ali-Hasan-Khan28)
+<h1 align="center">Hi 👋, I'm Muhammad Bilal Sheikh</h1>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-:wave:Hello, I am a machine learning engineer currently involved in diverse projects encompassing deep learning, computer vision, and natural language processing. One of my notable achievements is securing the runner-up position in the Microsoft Imagine Cup. I have a profound appreciation for the entire software development process, from design to implementation. My primary emphasis lies in optimizing performance and crafting efficient workflows for a variety of machine learning and deep learning models.
+- 🔭 I’m currently working on **Software Engineer**
 
+- 👯 I’m looking to collaborate on **Building and optimizing full-stack applications.**
 
-<div align="center">
-    <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
-    <br>
-</div>
+- 👨‍💻 All of my projects are available at [https://github.com/MBIlalsheikh05](https://github.com/MBIlalsheikh05)
 
+- 📫 How to reach me **mbilalsheikh05@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-bilal-sheikh-b113a5233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-bilal-sheikh-b113a5233/" height="30" width="40" /></a>
+</p>
 
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Deep Learning](https://img.shields.io/static/v1?label=&message=Deep_Learning&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![Deep-Globe-Road-Extraction-Using-Deep-Learning](https://img.shields.io/static/v1?label=&message=Deep-Globe-Road-Extraction-Using-Deep-Learning&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Deep-Globe-Road-Extraction-Using-Deep-Learning) |
-| [![Machine Learning](https://img.shields.io/static/v1?label=&message=Machine-Learning&color=009688&logo=Python&logoColor=FFFFFF)](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2) | [![Taiwenese-Bankruptcy-Prediction](https://img.shields.io/static/v1?label=&message=Taiwenese-Bankruptcy-Prediction&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Taiwenese-Bankruptcy-Prediction) | 
-| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=4EAA25&logo=Flask%20Bash&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/3.0.x/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=The-PDF-Mania&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/The-PDF-Mania) |
-| [![Algorithm](https://img.shields.io/static/v1?label=&message=Algorithms&color=FF5C83&logo=thealgorithms%20Bash&logoColor=FFFFFF)](https://www.geeksforgeeks.org/genetic-algorithms/) | [![Genetic Algorithm](https://img.shields.io/static/v1?label=&message=Genetic-Algorithm-for-Timetable-Generation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Genetic-Algorithm-for-Timetable-Generation) [![Genetic Algorithm](https://img.shields.io/static/v1?label=&message=GRAPH-AND-TREES&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/GRAPH-AND-TREES) |
-| [![Games](https://img.shields.io/static/v1?label=&message=Game&color=339933&logo=gameloft%20Bash&logoColor=FFFFFF)](https://readthedocs.org/projects/tictactoe/downloads/pdf/latest/) | [![Tic Tac Toe](https://img.shields.io/static/v1?label=&message=TicTacToe&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Tic-Tac-Toe) |
-| [![Mangement System](https://img.shields.io/static/v1?label=&message=Mangement-System&color=F7DF1E&logo=amazoniam%20Bash&logoColor=FFFFFF)](https://inspecco.com/training/management-system-documentation/) | [![Mess Mangement System](https://img.shields.io/static/v1?label=&message=Mess-Mangement-System&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Mess-Mangemnet-System) |
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Hasan-Khan28&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
